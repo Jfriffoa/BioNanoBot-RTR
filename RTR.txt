@@ -1,0 +1,67 @@
+
+
+--Narracion--
+Debido a la sobreproducción industrial y al uso masivo de fertilizantes y pesticidas en la agricultura, la contaminación, el exceso de nutrientes y la temperatura del mar han aumentado. 
+Este fenómeno ha producido una sobrepoblacion masiva de microalgas (o fitoplankton), provocando una intensa Marea Roja que contamina los organismos consumidos por el hombre. 
+La marea roja se forma por tipos de microalgas llamadas FANs (floraciones algales nocivas), que liberan toxinas en el mar, contaminando los moluscos que se alimentan de estos y por ende poniendo en riesgo la salud de las personas que consumen estos, afectando la Acuicultura y la Pesca artesanal de esta manera.  
+Para detener este impacto ambiental los cientificos chilenos han liberado bioNanobots en el mar. 
+Tu misión será, controlando estos nanorobots, eliminar el exceso de nutrientes para evitar la ploriferacion masiva de algas y en casos extremos, combatir contra moluscos sobrecontaminados. El objetivo final es destruir la marea roja, proteger el ecosistema marino y a la vez frenar su sobre explotación.
+
+-Primera fase
+En la primera fase del nivel, tu objetivo es recolectar el exceso de quimicos como nitrogeno y fosforo para evitar la sobrepoblacion de microalgas.
+Debes tener cuidado, ya que los nanobots son muy fragiles y el contacto con los fitoplankton los destruira facilmente.
+Si demoras mucho recolectando quimicos, mas y mas fitoplankton apareceran en el area, complicando tu mision severamente. 
+Recuerda que tu objetivo no es acabar con todos los quimicos y microalgas en el lugar! Una cantidad muy alta puede ser dañina para los seres humanos, pero una cantidad muy baja de nutrientes y quimicos causara que los mariscos de la zona sean cazados hasta la extincion. Tu mision es regular este fenomeno, no acabar con el.
+
+-Segunda fase
+Al terminar la fase de limpieza y recoleccion, tu nanobot recibira una mejora para pasar a exterminar los microorganismos y moluscos que han sido contaminados excesivamente.
+En esta fase deberas esquivar y destruir las microalgas en el camino, hasta llegar a destruir un molusco sobrecontaminado al final del nivel.
+Ten mucho cuidado, no solo es posible que los fitoplankton que encuentres te destruyan fisicamente, sino que el bionanobot tambien puede ser afectado por distintas toxinas que estos producen, dificultando tu mision.
+
+
+>Instrucciones
+Fase 1:
+Usa las flechas direccionales de izquierda y derecha para rotar el nanorobot, y arriba para avanzar.
+Usa la barra de espacio para recolectar los quimicos en exceso. Pero ten en cuenta la barra de limpieza en la pantalla, mientras que un exceso de toxinas es dañino para el ser humano, un nivel muy bajo podria acabar con el ecosistema marino.
+
+Fase 2:
+Usa las flechas direccionales para mover el nanobot en la pantalla.
+Usa la barra de espacio para disparar y destruir a los FANs y moluscos sobrecontaminados.
+
+En ambas fases ser tocado por otros organismos dañara tu nanorobot, no dejes que tu barra de vida se agote.
+
+
+
+>Creditos
+Elio Valenzuela: 
+Jose Francisco Riffo: 
+Alvaro Soto: 
+Andres Gonzalez: 
+Mario Gonzalez: 
+
+
+
+
+awoywood@utalca.cl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
